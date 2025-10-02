@@ -203,6 +203,7 @@
         "column2",
         "column3"
       ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h1",
