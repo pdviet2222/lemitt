@@ -127,14 +127,14 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "badminton-nike-jordan",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "shoes"
           }
         }
       },
