@@ -63,14 +63,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Journey to create your own style",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>At Eternal, we offer carefully selected products that offer quality, style, and sophistication in every detail. We believe that each product is more than just a product, it is a story, an emotion, and a value that our customers deserve.</p>"
           }
         }
       },
@@ -134,7 +134,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "shoes"
+            "collection": ""
           }
         }
       },
