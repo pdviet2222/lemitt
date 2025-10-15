@@ -175,6 +175,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/0882-NIKCN9677100000009-1.webp",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -184,6 +185,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/0882-NIKCN9677005000010-1.webp",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -193,6 +195,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/0882-NIKDX4816100IVO009-1.webp",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
